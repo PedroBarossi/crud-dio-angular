@@ -1,3 +1,7 @@
+# CRUD em Angular
+Projeto desenvolvido a partir de uma live de [Ivonaldo Soares](https://github.com/ivosoares) na plataforma da [Digital Innovation One](https://web.dio.me)
+
+# **README gerado pelo Angular**
 # CrudDioAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
