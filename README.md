@@ -1,5 +1,7 @@
 # CRUD em Angular
-Projeto desenvolvido a partir de uma live de [Ivonaldo Soares](https://github.com/ivosoares) na plataforma da [Digital Innovation One](https://web.dio.me)
+Projeto desenvolvido a partir de uma live de [Ivonaldo Soares](https://github.com/ivosoares) na plataforma da [Digital Innovation One](https://web.dio.me).
+
+API criada a partir de uma planilha do Google no site [sheet.best](https://sheet.best/)
 
 # **README gerado pelo Angular**
 # CrudDioAngular
