@@ -1,6 +1,9 @@
 # CRUD em Angular
 Projeto desenvolvido a partir de uma live de [Ivonaldo Soares](https://github.com/ivosoares) na plataforma da [Digital Innovation One](https://web.dio.me).
 
+- Na aba de Usuários, é possível cadastrar usuários que serão salvos numa planilha do Google, simulando um banco de dados. Também existem as opções de editar e excluir
+- Na barra Lista de Tarefas, pode-se adicionar tarefas, marcá-las como concluídas e excluí-las. Estas ficam salva no Local Storage
+
 API criada a partir de uma planilha do Google no site [sheet.best](https://sheet.best/)
 
 # **README gerado pelo Angular**
